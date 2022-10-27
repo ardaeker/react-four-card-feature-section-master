@@ -8,7 +8,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
   - [Table of contents](#table-of-contents)
   - [Overview](#overview)
     - [The challenge](#the-challenge)
-    - [Screenshot](#screenshot)
+    - [Screenshot (Mobile-Tablet-Desktop)](#screenshot-mobile-tablet-desktop)
     - [Links](#links)
   - [My process](#my-process)
     - [Built with](#built-with)
@@ -22,16 +22,13 @@ Users should be able to:
 
 - View the optimal layout for the site depending on their device's screen size
 
-### Screenshot
+### Screenshot (Mobile-Tablet-Desktop)
 
-- Mobile
-  ![](./screenshot-mobile.png)
+![](./screenshot-mobile.png)
 
-- Tablet
-  ![](./screenshot-tablet.png)
+![](./screenshot-tablet.png)
 
-- Desktop
-  ![](./screenshot-desktop.png)
+![](./screenshot-desktop.png)
 
 ### Links
 
